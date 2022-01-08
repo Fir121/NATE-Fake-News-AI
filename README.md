@@ -1,5 +1,6 @@
 # NATE-Fake-News-AI
 An AI Practice Project made with Python in Google Collaboratory.
+To run this check it out [here](https://colab.research.google.com/github/Fir121/NATE-Fake-News-AI/blob/main/N_A_T_E_Fake_News_Detector.ipynb)
 
 ## Sample Output
 
