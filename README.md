@@ -1,7 +1,6 @@
 # NATE-Fake-News-AI
 An AI Practice Project made with Python in Google Collaboratory.
 
----
 ## Sample Output
 
     :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: N.A.T.E ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
