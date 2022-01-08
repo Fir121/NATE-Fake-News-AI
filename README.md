@@ -3,7 +3,7 @@ An AI Practice Project made with Python in Google Collaboratory.
 
 ---
 ## Sample Output
-'
+`
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: N.A.T.E ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Hello I am N.A.T.E
@@ -19,5 +19,5 @@ https://gulfnews.com/entertainment/bollywood/bollywood-actor-irrfan-khan-dies-at
 
                            Always stay vigilant for fake news...
                                  And for now... Goodbye!
+`
 
-'
